@@ -220,3 +220,11 @@ pip-log.txt
 
 #.vagrant virtual box id
 .vagrant/
+
+#############
+#Vim
+#############
+
+#vim temporary files
+.*~
+*~
